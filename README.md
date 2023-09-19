@@ -1,4 +1,4 @@
-# Patricoin Contract
+# patricoin-contract
 
 Patricoin is a ethereum token which was created as a learning experience for me to learn more about [Solidity](https://soliditylang.org/) and the ethereum blockchain with smart contracts.
 
